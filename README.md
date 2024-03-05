@@ -28,6 +28,11 @@ Or by simply including a link to the file hosted by CDNJS:
 ```
 
 ## Most Simple Use:
+Note: Before the below code worked, I had to run this command to install:
+```
+npm i --save-dev @types/react-animate-on-scroll
+
+```
 
 ```
 import ScrollAnimation from 'react-animate-on-scroll';
